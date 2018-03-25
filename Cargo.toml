@@ -1,0 +1,8 @@
+[package]
+name = "hexdump"
+version = "0.1.0"
+authors = ["Nicolas Thery <nthery@gmail.com>"]
+
+[dependencies]
+error-chain = "0.11"
+getopts = "0.2"
